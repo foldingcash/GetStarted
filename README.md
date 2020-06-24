@@ -7,7 +7,7 @@ Ideally your Folding@Home address will be configured as {username}_{BCH/SLP}. Th
 
 We have used memo.cash and Bitcoin.com (android wallet) to help manage our BCH and SLP.
 
-We recommend using a dedicated SLP wallet for you FoldingCash
+We recommend using a dedicated SLP wallet for your FoldingCash
 
 ## Recovering FoldingCash From BTC Addresses
 
